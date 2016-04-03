@@ -1,3 +1,5 @@
+Create a new file with your name under Assignment0 file. In there commit your project.
+
 Nikita has a line of N tiles indexed from 0 to N?1. She wants to paint them to match a color configuration, C, which is comprised of 2 colors: Red(R) and Blue(B).
 In one stroke, Nikita can paint 1 or more adjacent tiles a single color. After she finishes painting, each tile i should be painted color Ci.
 It should be noted that it is not allowed to apply more than 1 stroke on a tile.
